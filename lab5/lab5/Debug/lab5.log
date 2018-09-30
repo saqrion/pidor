@@ -1,0 +1,5 @@
+﻿  lab5.cpp
+c:\users\lenovo\source\repos\lab5\lab5\lab5.cpp(9): warning C4101: tmp: неиспользованная локальная переменная
+c:\users\lenovo\source\repos\lab5\lab5\lab5.cpp(8): warning C4101: max_cord: неиспользованная локальная переменная
+c:\users\lenovo\source\repos\lab5\lab5\lab5.cpp(8): warning C4101: min_cord: неиспользованная локальная переменная
+  lab5.vcxproj -> C:\Users\Lenovo\source\repos\lab5\Debug\lab5.exe
